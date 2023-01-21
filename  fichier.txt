@@ -1,0 +1,13 @@
+total 116
+-rwxrwxr-x 1 ensea ensea     0 déc.  15 21:15  fichier.txt
+-rw-rw-r-- 1 ensea ensea 14798 déc.  15 09:54 index.html
+-rwxrwxr-x 1 ensea ensea 13392 déc.  15 21:13 main
+-rw-rw-r-- 1 ensea ensea  2903 déc.  15 21:13 main.c
+-rw-rw-r-- 1 ensea ensea   141 déc.  15 17:07 main.h
+-rwxrwxr-x 1 ensea ensea 17120 déc.  15 21:14 prog
+-rwxrwxr-x 1 ensea ensea  9328 déc.  15 13:52 prog1
+-rwxrwxr-x 1 ensea ensea  9344 déc.  15 13:55 prog2
+-rwxrwxr-x 1 ensea ensea  8304 déc.  15 13:52 test1
+-rw-rw-r-- 1 ensea ensea    48 déc.  15 13:52 test1.c
+-rwxrwxr-x 1 ensea ensea  8312 déc.  15 13:54 test2
+-rw-rw-r-- 1 ensea ensea    97 déc.  15 13:54 test2.c

@@ -3,6 +3,8 @@
 #include <sys/wait.h>
 #include <unistd.h>
 #include <string.h>
+#include <time.h>
+#include <fcntl.h>
 
 
 
